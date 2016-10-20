@@ -15,6 +15,7 @@ Here are some examples of automated tools which can be used for auditing.
 
 # files in this repo
 * linux_perimissions.md - (Example file in ```/home/alice``` inside the VM) - explains some basics about linux file permissions
+* linux_commands.md - provides some basic Linux commands
 
 # OVA image
 An ova image is a virtual machine image that is designed to run inside a hypervisor (like virtualbox).
