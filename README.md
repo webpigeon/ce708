@@ -1,6 +1,18 @@
 # ce708
 Computer security module examples
 
+# Automated Auditing tools
+Here are some examples of automated tools which can be used for auditing.
+
+## For system configuration
+* [Lynis](https://cisofy.com/lynis/)
+* [OpenVAS](http://www.openvas.org/)
+* [Nessus](https://www.tenable.com/products/nessus-vulnerability-scanner) (commercial)
+
+## For source code
+* [Sonarqube](http://www.sonarqube.org/) [My sonar server](https://sonar.fossgalaxy.com/)
+* [findbugs](http://findbugs.sourceforge.net/)
+
 # files in this repo
 * linux_perimissions.md - (Example file in ```/home/alice``` inside the VM) - explains some basics about linux file permissions
 
