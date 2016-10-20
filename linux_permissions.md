@@ -1,5 +1,6 @@
-# This is a secret document
+# Linux File Permissions
 
+(in the ova as secret_document.txt)
 * Alice and bob should be able to access this
 * Eve should not
 
