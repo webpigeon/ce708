@@ -2,7 +2,7 @@
 
 ## Our setup
 ```c
-char pass[9]; //9 bytes
+char pass[10]; //10 bytes
 int auth; //4 bytes
 ```
 
