@@ -11,4 +11,4 @@ overfixed: overfixed.c
 	gcc --debug -U_FORTIFY_SOURCE -fno-stack-protector overrun.c -o overfixed
 
 clean:
-	rm overrun
+	rm overrun overlab overfixed
