@@ -6,6 +6,7 @@ You may find some of the parts of the assignment helpful.
 
 ## What's in the folder:
 * origin.txt
+* origin_rot.txt - a subituited version of the origin of speicies (only lowercase letters have been encrypted)
 * python_crypt.py - function signatures for the lab
 
 ### Tools for testing your code
