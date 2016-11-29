@@ -1,6 +1,27 @@
 # ce708
 Computer security module examples
 
+# Downloading this repo
+
+## cloning out this repo locally
+If you have not cloned this repository before do this:
+
+```bash
+git clone git@github.com:webpigeon/ce708.git
+```
+
+## updating to the latest version
+If you have cloned the repository before, do this to update it with any changes I have made.
+
+```bash
+# do this if you have made changes
+git add .
+git commit -m "my changes"
+
+# this will get any updates from this repo
+git pull
+```
+
 # Automated Auditing tools
 Here are some examples of automated tools which can be used for auditing.
 
